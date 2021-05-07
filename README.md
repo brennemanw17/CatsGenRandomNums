@@ -3,8 +3,10 @@
  
 ## Usage
  genrandom() - random integer generation
+ 
  genrandom(min,max) - random integer between min and max including min and max
 
 ## Dependencies 
  bitstring: `pip install bitstring`
+ 
  pillow: `pip install pillow`
